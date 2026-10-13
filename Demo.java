@@ -5,7 +5,6 @@ class Demo {
            System.out.println("Good Evening Interns ");
     }
 
-
     public void sum (int a , int b ) {
      System.out.println("The addition is : " + (a+b));
     }
@@ -18,8 +17,7 @@ class Demo {
         System.out.println("Enter the value of b :");
         int b = sc.nextInt();
 
-       
-        System.out.println("The addition is : " + (a+b));
+        
         System.out.println("The Difference is : " + (a-b));
         System.out.println("The Division is : " + (a/b));
         System.out.println("The Modulus  is : " + (a%b));
